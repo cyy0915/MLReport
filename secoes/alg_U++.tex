@@ -1,0 +1,15 @@
+\section{Algorithm}
+\subsection{UNet++}
+There are several unique algorithms and tricks used in UNet++, including deep supervision and its unique loss function. We will discuss all these below in detail.
+\subsubsection{Deep supervision}
+We have mentioned deep supervision in the last part about the description of UNet++, here we will discuss it in detail.\\
+Let's reflect on Figure.\ref{fig:unetStructure}, where all the outputs of the four branches connect to a single loss function. It's worth noticing that, in normal deep supervision procedure, losses at supervision layers decay with time, while in this setup, no loss would decay through time. This was because of the proposition that UNet++ was designed to support pruning during inference time, which can be done through only taking the output at layer $X^{0,t}, t\in \{1,2,3,4\}$. As a result, the deep supervision in UNet++ is not in its d=standard form, whose effects will be discussed in the experiment section.\\
+\subsubsection{Loss Function of UNet++}
+In the paper\cite{unet_pp}, the loss function at arbitrary output point has a uniform formula, which consists of a cross-entropy term and a Dice-coefficient term:
+\begin{equation}
+    \displaystyle L(Y, \hat Y)=-\frac{1}{N}\sum_{b=1}^{N}(\frac12 * Y_b * log\hat Y_b + \frac{2* Y_b*\hat Y_b}{Y_b + \hat Y_b})
+\end{equation}
+
+Where $Y_b$ and $\hat Y_b$ denote the flattened probability vector output for the $b^{th}$ image.\\
+
+Totalling all these things together, we can see that UNet++ has 4 streams of constant gradient flow feeding back into the network during training time.

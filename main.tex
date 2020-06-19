@@ -1,27 +1,41 @@
-% !TEX program = xelatex
+%Autores: Prof. Me. Phyllipe Lima
+%         Daylon Ramos da Silva
+%Contato: phyllipe_slf@yahoo.com.br
+%         biblioteca.pesquisa@inatel.br
+%Modelo para escrita de artigos científicos para o INCITEL - CONGRESSO DE INICIAÇÃO CIENTÍFICA DO INATEL 
+
+%Se você é novo no latex, um bom lugar para começar é
+%https://pt.overleaf.com/learn
 \documentclass[10pt,conference]{inatel} 
 \input{configuracoes/includes.tex}
 \input{configuracoes/config.tex}
 
 
+
 \begin{document}
 
 
-  \title{Report}
+  \title{Instruções Para os Autores}
   \author
   {
+    \IEEEauthorblockN{Carlos Alberto Ynoguti, Rosanna Mara Rocha Silveira, Phyllipe Lima\\}
+    \IEEEauthorblockA{Instituto Nacional de Telecomunicações - Inatel\\
+                  ynoguti@inatel.br, rosannas@inatel.br, phyllipe@inatel.br}
   }
 
 \maketitle
 
-%\input{secoes/01-resumo.tex}
-%\input{secoes/02-introducao.tex}
-%\input{secoes/03-instrucoes-gerais.tex}
-%\input{secoes/04-conclusao.tex}
-\input{secoes/UNet3+_section.tex}
+\input{secoes/01-resumo.tex}
+\input{secoes/02-introducao.tex}
+\input{secoes/03-instrucoes-gerais.tex}
+\input{secoes/method_U++.tex}
+\input{secoes/alg_U++.tex}
+\input{secoes/exp_setting_U++.tex}
+\input{secoes/result_U++.tex}
+\input{secoes/04-conclusao.tex}
 
 
-%\printbibliography
+\printbibliography
 
-%\input{secoes/05-biografia.tex}
+\input{secoes/05-biografia.tex}
 \end{document}
