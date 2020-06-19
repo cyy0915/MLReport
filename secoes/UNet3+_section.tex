@@ -1,5 +1,5 @@
 \section{UNet+++ Method}
-After UNet and UNet++, we also try UNet+++,
+After UNet and UNet++, we also try UNet+++\cite{unet_ppp},
 which was developed and published in 2020 and maybe the latest UNet-like deep learning network.
 In the following sections, we first briefly introduce UNet+++ according to the paper, and then introduce our training methods and results.
 
@@ -9,7 +9,7 @@ In recent deep learning network like UNet and UNet++, feature maps in different 
 while high-level semantic feature maps embody position information. 
 Nevertheless, these exquisite signals may be gradually diluted when progressively down- and up-sampling.
 However, by implementing full-scale skip connections, UNet+++ can make full use of the multi-scale features, incorporating low-level details with high-level semantics from feature maps in different scales. 
-The following image displays simplified overviews of UNet, UNet++ and UNet+++. The image is from the paper
+The following image displays simplified overviews of UNet, UNet++ and UNet+++. The image is from \cite{unet_ppp}
 
 \includegraphics[width=\linewidth]{figuras/UNet+++.jpg}
 
