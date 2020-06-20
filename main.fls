@@ -306,23 +306,29 @@ INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet.PNG
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/method_U++.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/method_U++.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetStructure.png
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetStructure.png
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetStructure.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppStructure.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppStructure.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppStructure.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppPrune.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppPrune.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppPrune.png
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/method_U3+.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/method_U3+.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/UNet+++.jpg
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/UNet+++.jpg
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/UNet+++.jpg
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet3+.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet3+.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet3+.png
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_unet.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_unet.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_U++.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_U++.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_u3+.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_u3+.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/overlap-tile.PNG
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/overlap-tile.PNG
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/overlap-tile.PNG
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_U++.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_U++.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_u3+.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/alg_u3+.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/exp_setting_Unet.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/exp_setting_Unet.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/exp_setting_U++.tex
@@ -331,10 +337,28 @@ INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/exp_s
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/exp_setting_u3+.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_Unet.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_Unet.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_U++.tex
-INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_U++.tex
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2_predict.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2_predict.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2_predict.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/2.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_acc_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_acc_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_acc_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_verbose_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_verbose_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unet_verbose_thre.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unethistory.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unethistory.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unethistory.pdf
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_U++.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_U++.tex
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppTraining.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppTraining.png
+INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/unetppTraining.png
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_u3+.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/secoes/result_u3+.tex
 INPUT c:/Users/StHow/OneDrive/2019-2020-2/Machine Learning/MLReport/figuras/epoch_accuracy.png

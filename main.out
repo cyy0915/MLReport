@@ -1,38 +1,39 @@
-\BOOKMARK [1][-]{section.1}{Introdução}{}% 1
-\BOOKMARK [1][-]{section.2}{Instruções Gerais}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Tamanho\040e\040formato\040do\040papel}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Resumo\040e\040abstract}{section.2}% 4
-\BOOKMARK [2][-]{subsection.2.3}{Seções e subseções}{section.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.3.1}{Sub-subseção}{subsection.2.3}% 6
-\BOOKMARK [2][-]{subsection.2.4}{Figuras\040e\040Tabelas}{section.2}% 7
-\BOOKMARK [2][-]{subsection.2.5}{Equações}{section.2}% 8
+\BOOKMARK [1][-]{section.1}{Introdu\347\343o}{}% 1
+\BOOKMARK [1][-]{section.2}{Instru\347\365es Gerais}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Tamanho e formato do papel}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Resumo e abstract}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Se\347\365es e subse\347\365es}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Sub-subse\347\343o}{subsection.2.3}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Figuras e Tabelas}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Equa\347\365es}{section.2}% 8
 \BOOKMARK [2][-]{subsection.2.6}{Fontes}{section.2}% 9
-\BOOKMARK [2][-]{subsection.2.7}{Referências bibliográficas}{section.2}% 10
-\BOOKMARK [2][-]{subsection.2.8}{Outras questões}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.7}{Refer\352ncias bibliogr\341ficas}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.8}{Outras quest\365es}{section.2}% 11
 \BOOKMARK [1][-]{section.3}{Methods}{}% 12
 \BOOKMARK [2][-]{subsection.3.1}{U-Net}{section.3}% 13
 \BOOKMARK [3][-]{subsubsection.3.1.1}{Motivation}{subsection.3.1}% 14
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Detailed\040Description}{subsection.3.1}% 15
-\BOOKMARK [1][-]{section.4}{Methods}{}% 16
-\BOOKMARK [2][-]{subsection.4.1}{UNet++}{section.4}% 17
-\BOOKMARK [3][-]{subsubsection.4.1.1}{Motivation}{subsection.4.1}% 18
-\BOOKMARK [3][-]{subsubsection.4.1.2}{Detailed\040Description}{subsection.4.1}% 19
-\BOOKMARK [2][-]{subsection.4.2}{UNet+++}{section.4}% 20
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Motivation}{subsection.4.2}% 21
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Network\040description}{subsection.4.2}% 22
-\BOOKMARK [1][-]{section.5}{Algorithm}{}% 23
-\BOOKMARK [2][-]{subsection.5.1}{U-Net}{section.5}% 24
-\BOOKMARK [2][-]{subsection.5.2}{UNet++}{section.5}% 25
-\BOOKMARK [3][-]{subsubsection.5.2.1}{Deep\040supervision}{subsection.5.2}% 26
-\BOOKMARK [3][-]{subsubsection.5.2.2}{Loss\040Function\040of\040UNet++}{subsection.5.2}% 27
-\BOOKMARK [2][-]{subsection.5.3}{UNet+++}{section.5}% 28
-\BOOKMARK [1][-]{section.6}{Experimental\040Settings}{}% 29
-\BOOKMARK [2][-]{subsection.6.1}{U-Net}{section.6}% 30
-\BOOKMARK [2][-]{subsection.6.2}{UNet++}{section.6}% 31
-\BOOKMARK [2][-]{subsection.6.3}{UNet+++}{section.6}% 32
-\BOOKMARK [1][-]{section.7}{Result}{}% 33
-\BOOKMARK [2][-]{subsection.7.1}{U-Net}{section.7}% 34
-\BOOKMARK [1][-]{section.8}{Result}{}% 35
-\BOOKMARK [2][-]{subsection.8.1}{UNet++}{section.8}% 36
-\BOOKMARK [2][-]{subsection.8.2}{UNet+++}{section.8}% 37
-\BOOKMARK [1][-]{section.9}{Conclusão}{}% 38
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Detailed Description}{subsection.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.2}{UNet++}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Motivation}{subsection.3.2}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Detailed Description}{subsection.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.3}{UNet+++}{section.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Motivation}{subsection.3.3}% 20
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Network description}{subsection.3.3}% 21
+\BOOKMARK [1][-]{section.4}{Algorithm}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{U-Net}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Overlap-tile strategy}{subsection.4.1}% 24
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Data augmentation}{subsection.4.1}% 25
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Weighted loss}{subsection.4.1}% 26
+\BOOKMARK [2][-]{subsection.4.2}{UNet++}{section.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Deep supervision}{subsection.4.2}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Loss Function of UNet++}{subsection.4.2}% 29
+\BOOKMARK [2][-]{subsection.4.3}{UNet+++}{section.4}% 30
+\BOOKMARK [1][-]{section.5}{Experimental Settings}{}% 31
+\BOOKMARK [2][-]{subsection.5.1}{U-Net}{section.5}% 32
+\BOOKMARK [2][-]{subsection.5.2}{UNet++}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.3}{UNet+++}{section.5}% 34
+\BOOKMARK [1][-]{section.6}{Result}{}% 35
+\BOOKMARK [2][-]{subsection.6.1}{U-Net}{section.6}% 36
+\BOOKMARK [2][-]{subsection.6.2}{UNet++}{section.6}% 37
+\BOOKMARK [2][-]{subsection.6.3}{UNet+++}{section.6}% 38
+\BOOKMARK [1][-]{section.7}{Conclus\343o}{}% 39
