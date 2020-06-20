@@ -1,0 +1,397 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{latexMath}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4690e783e379b552abe352156ce83a6e}{%
+           family={WikiBooks},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{4690e783e379b552abe352156ce83a6e}
+      \strng{fullhash}{4690e783e379b552abe352156ce83a6e}
+      \strng{bibnamehash}{4690e783e379b552abe352156ce83a6e}
+      \strng{authorbibnamehash}{4690e783e379b552abe352156ce83a6e}
+      \strng{authornamehash}{4690e783e379b552abe352156ce83a6e}
+      \strng{authorfullhash}{4690e783e379b552abe352156ce83a6e}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{LaTeX/Mathematics}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb en.wikibooks.org/wiki/LaTeX/Mathematics
+      \endverb
+      \verb{url}
+      \verb en.wikibooks.org/wiki/LaTeX/Mathematics
+      \endverb
+    \endentry
+    \entry{LIMA2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=dac2e995dde1f61daa5e8a38307a18d0}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=21bc614bf9884ca8b8b8cb5b166d0860}{%
+           family={Guerra},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6ac2e54c2fb8c20c56545e2729f2c68e}{%
+           family={Meirelles},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9d68af063273a994fc8105cfe110276b}{%
+           family={Kanashiro},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9e80d6ad0df70225e0b6345dbe2664f7}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2e124757bc3642b2c4e3ea2994f91abf}{%
+           family={Silveira},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{65a18ae67fb0cb9ae67aaefa0068f225}
+      \strng{fullhash}{2ed9185ad036ae0ce6be2b7b67fbde5e}
+      \strng{bibnamehash}{2ed9185ad036ae0ce6be2b7b67fbde5e}
+      \strng{authorbibnamehash}{2ed9185ad036ae0ce6be2b7b67fbde5e}
+      \strng{authornamehash}{65a18ae67fb0cb9ae67aaefa0068f225}
+      \strng{authorfullhash}{2ed9185ad036ae0ce6be2b7b67fbde5e}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0164-1212}
+      \field{journaltitle}{Journal of Systems and Software}
+      \field{title}{A Metrics Suite for Code Annotation Assessment}
+      \field{volume}{137}
+      \field{year}{2018}
+      \field{pages}{163\bibrangedash 183}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jss.2017.11.024
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S016412121730273X
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S016412121730273X
+      \endverb
+      \keyw{Code annotation,Software metrics,Thresholds}
+    \endentry
+    \entry{schell2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d01dae2ce425466d461801bb96bdc5ea}{%
+           family={Schell},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {A. K. Peters, Ltd.}%
+      }
+      \strng{namehash}{d01dae2ce425466d461801bb96bdc5ea}
+      \strng{fullhash}{d01dae2ce425466d461801bb96bdc5ea}
+      \strng{bibnamehash}{d01dae2ce425466d461801bb96bdc5ea}
+      \strng{authorbibnamehash}{d01dae2ce425466d461801bb96bdc5ea}
+      \strng{authornamehash}{d01dae2ce425466d461801bb96bdc5ea}
+      \strng{authorfullhash}{d01dae2ce425466d461801bb96bdc5ea}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{1466598646, 9781466598645}
+      \field{title}{The Art of Game Design: A Book of Lenses}
+      \field{year}{2014}
+    \endentry
+    \entry{Lima2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=dac2e995dde1f61daa5e8a38307a18d0}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=21bc614bf9884ca8b8b8cb5b166d0860}{%
+           family={Guerra},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=51aff842b1535f3e597d25c374695525}{%
+           family={Nardes},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0a7f9357b27935be85b60399dd17e3fd}{%
+           family={Mocci},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=42ea260801aa9e012a7aeff9cc432bc0}{%
+           family={Bavota},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2c826287d64013c805cd64ce875a823c}{%
+           family={Lanza},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{65a18ae67fb0cb9ae67aaefa0068f225}
+      \strng{fullhash}{40c7e075a838d96167b9a54971de61b8}
+      \strng{bibnamehash}{40c7e075a838d96167b9a54971de61b8}
+      \strng{authorbibnamehash}{40c7e075a838d96167b9a54971de61b8}
+      \strng{authornamehash}{65a18ae67fb0cb9ae67aaefa0068f225}
+      \strng{authorfullhash}{40c7e075a838d96167b9a54971de61b8}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2Nd ACM SIGPLAN International Workshop on Meta-Programming Techniques and Reflection}
+      \field{isbn}{978-1-4503-5523-0}
+      \field{series}{Meta 2017}
+      \field{title}{An Annotation-based API for Supporting Runtime Code Annotation Reading}
+      \field{year}{2017}
+      \field{pages}{6\bibrangedash 14}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3141517.3141856
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/3141517.3141856
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/3141517.3141856
+      \endverb
+      \keyw{code annotation,framework development,metadata}
+    \endentry
+    \entry{unet}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=8e46da9de9e53ea5d37089897d69cdd9}{%
+           family={Ronneberger},
+           familyi={R\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=168e84ce3582cbc6bac5e2ebc3ef8442}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b452a32296958371572717940f900884}{%
+           family={Brox},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{fullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{bibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorbibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authornamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorfullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-24574-4}
+      \field{title}{U-Net: Convolutional Networks for Biomedical Image Segmentation}
+      \field{year}{2015}
+      \field{pages}{234\bibrangedash 241}
+      \range{pages}{8}
+    \endentry
+    \entry{FCN}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=17faae490b91366d25e0e2d774e7b6b1}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ce499f8943cac7cba0a73388d289a2e}{%
+           family={Shelhamer},
+           familyi={S\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=90180e1a30742e0d15328bfe637c2ef4}{%
+           family={Darrell},
+           familyi={D\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{4f969c1eddab717aa873b0a90831c45a}
+      \strng{fullhash}{4f969c1eddab717aa873b0a90831c45a}
+      \strng{bibnamehash}{4f969c1eddab717aa873b0a90831c45a}
+      \strng{authorbibnamehash}{4f969c1eddab717aa873b0a90831c45a}
+      \strng{authornamehash}{4f969c1eddab717aa873b0a90831c45a}
+      \strng{authorfullhash}{4f969c1eddab717aa873b0a90831c45a}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR} 2015, Boston, MA, USA, June 7-12, 2015}
+      \field{title}{Fully convolutional networks for semantic segmentation}
+      \field{year}{2015}
+      \field{pages}{3431\bibrangedash 3440}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/CVPR.2015.7298965
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/CVPR.2015.7298965
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/CVPR.2015.7298965
+      \endverb
+    \endentry
+    \entry{unet_pp}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=bf1a977e96850ff7ee2713ccbafec533}{%
+           family={Zongwei},
+           familyi={Z\bibinitperiod},
+           given={Zhou.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1ce00018c802ff001c7f5579fb569bbe}{%
+           family={Mahfuzur},
+           familyi={M\bibinitperiod},
+           given={Rahman.\bibnamedelimi Siddiquee.\bibnamedelimi Md.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{88ee810564084e5ddf84459375febc64}
+      \strng{fullhash}{88ee810564084e5ddf84459375febc64}
+      \strng{bibnamehash}{88ee810564084e5ddf84459375febc64}
+      \strng{authorbibnamehash}{88ee810564084e5ddf84459375febc64}
+      \strng{authornamehash}{88ee810564084e5ddf84459375febc64}
+      \strng{authorfullhash}{88ee810564084e5ddf84459375febc64}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-030-00889-5}
+      \field{title}{UNet++: A Nested U-Net Architecture for Medical Image Segmentation}
+      \field{year}{2018}
+      \field{pages}{3\bibrangedash 11}
+      \range{pages}{9}
+    \endentry
+    \entry{unet_ppp}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ebcde744e71e3cfbf61923e309ae99c9}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Huimin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=51db1a980ecd58165820321346ccaf28}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lanfen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bf14cdf39439b089fa1043e324c4fa40}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Ruofeng},
+           giveni={R\bibinitperiod}}}%
+        {{hash=277aa61a8004d8fa517c752df8143aae}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Hongjie},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6ab0825d2bb6d38869361f14c653850f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qiaowei},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=a943aa7f10d3d046b92e954ab0a39fd0}{%
+           family={Iwamoto},
+           familyi={I\bibinitperiod},
+           given={Yutaro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a43018e8bb5a53a9b3c91e971b82c6fb}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xianhua},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f28f27bd370861a0b78d9e30f3a5abcb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yen-Wei},
+           giveni={Y\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=bb371597af3d6d97a656e6f879c0189d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{92b553087ca065959e7c3e5e55488c84}
+      \strng{fullhash}{570b990841c3e07af2a48acc821860ff}
+      \strng{bibnamehash}{570b990841c3e07af2a48acc821860ff}
+      \strng{authorbibnamehash}{570b990841c3e07af2a48acc821860ff}
+      \strng{authornamehash}{92b553087ca065959e7c3e5e55488c84}
+      \strng{authorfullhash}{570b990841c3e07af2a48acc821860ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}
+      \field{title}{UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation}
+      \field{year}{2020}
+      \field{pages}{1055\bibrangedash 1059}
+      \range{pages}{5}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

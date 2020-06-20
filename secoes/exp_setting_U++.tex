@@ -1,4 +1,4 @@
-\section{Experimental Settings}
+%\section{Experimental Settings}
 \subsection{UNet++}
 We will discuss the settings of UNet++ throughout our experiments in this section. The network structure was the same as depicted in Figure.\ref{fig:unetStructure}. Due to the limited capacity of our hardware, the training time batch size was very limited, which is actually only 1 picture per batch. We understand the effect that small batch size hinds convergence, but we had no choice. The optimizer was SGD, with a learning rate of 1e-3, momentum of 0.9 and weight decay of 1e-4. We were only able to train the network for 100 epochs due to the limited memory.
 

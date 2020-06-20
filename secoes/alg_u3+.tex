@@ -1,0 +1,13 @@
+\subsection{UNet+++}
+We use Pytorch to train UNet+++, so we use Pytorch's loss function and optimizer.
+
+In details, because the result picture only have two class 0,1 per pixel, we use loss function BCEWithLogitsLoss, it combines a Sigmoid layer and the BCELoss. 
+BCELoss is a criterion that measures the Binary Cross Entropy between the target and the output, the formula is:
+\[\begin{aligned}
+    &\mathbf{l}(\mathbf{x}, \mathbf{y})=\{l_1, \cdots, l_N\}^T, \\
+    &l_n=-w_n[y_n\cdot\log{x_n}+(1-y_n)\cdot\log{(1-x_n)}]
+\end{aligned}\]
+Where N is the batch size. BCEWithLogitsLoss is more numerically stable than using a plain Sigmoid followed by a BCELoss as, 
+by combining the operations into one layer, we take advantage of the log-sum-exp trick for numerical stability.
+
+We use Adam algorithm as optimizer. Actually we test Adam, RMSprop, SGD and we find that Adam performs best.

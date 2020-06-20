@@ -1,0 +1,9 @@
+\subsection{UNet+++}
+We test the relationship between epoch and the accuracy of test data, in order to find the best epoch value. In the test, the value of epoch range from 1 to 40. 
+In each iteration, we test the current model on test dataset, and record the accuracy. The result is given in the following image.
+
+\includegraphics[width=\linewidth]{figuras/epoch_accuracy.png}
+
+The image shows that as the epoch value increase, the accuracy first increase rapidly and than decrease slowly, 
+which means that when epoch is too large, it becomes overfitting.
+The best accuracy is 0.923, with the epoch value 18
