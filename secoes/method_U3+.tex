@@ -10,6 +10,10 @@ In recent deep learning network like UNet and UNet++, feature maps in different 
 while high-level semantic feature maps embody position information. 
 Nevertheless, these exquisite signals may be gradually diluted when progressively down- and up-sampling.
 However, by implementing full-scale skip connections, UNet+++ can make full use of the multi-scale features, incorporating low-level details with high-level semantics from feature maps in different scales. 
-The following image displays simplified overviews of UNet, UNet++ and UNet+++. The image is from \cite{unet_ppp}
+Figure./ref{fig:unetpppGraph} shows simplified overviews of UNet+++. The image is from \cite{unet_ppp}.
 
-\includegraphics[width=\linewidth]{figuras/UNet+++.jpg}
+\begin{figure}[!htpb]
+\includegraphics[width=\linewidth]{figure/unet3+.png}
+\caption{UNet+++ network structure}
+\label{fig:unetpppGraph}
+\end{figure}
