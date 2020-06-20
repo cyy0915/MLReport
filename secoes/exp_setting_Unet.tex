@@ -1,2 +1,3 @@
 \section{Experimental Settings}
 \subsection{U-Net}
+Here we briefly descirbe the environment and tools we use to train a U-Net ourservles. We use TensorFlow with Keras API, and the training is done on a NVIDIA GTX 1060 (6GB). We use standard Adam optimizer with learning rate 1e-4, and train the net for 10 epochs for 5 hours, each epoch containing 2000 steps. The data augmentation is done via Keras ImageGenerator API, with rotation, shift and horizontal flip.
