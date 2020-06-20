@@ -1,18 +1,18 @@
 \section{Methods}
 \subsection{U-Net}
 \subsubsection{Motivation}
-Here we explain why we choose U-Net as our first and baseline method to experiment with. Published in \cite{unet}, it has been cited over 10000 times and widely used as a benchmark in medical image segementation. Based on U-Net, many vairations are designed to pursue better performance, as we will see in later parts. Nevertheless, U-Net itself was a big breakthrough at its publish time, and it is very beneficial to study with its netwrok structure.
+Here we explain why we choose U-Net as our first and baseline method to experiment with. Published in \cite{unet}, it has been cited over 10000 times and widely used as a benchmark in medical image segmentation. Based on U-Net, many vairations are designed to pursue better performance, as we will see in later parts. Nevertheless, U-Net itself was a big breakthrough at its publish time, and it is very beneficial to study with its network structure.
 
 \subsubsection{Detailed Description}
-Image segementation has long been a major task in computer vision, where the input is an image and the expected output is the mask of image\textemdash where all pixels belonging to the same object are labeled out (See Figure~\ref{fig:sege}). 
+Image segmentation has long been a major task in computer vision, where the input is an image and the expected output is the mask of image\textemdash where all pixels belonging to the same object are labeled out (See Figure~\ref{fig:sege}). 
 \begin{figure}[!htpb]
     \centering
     \includegraphics[scale=0.3]{figuras/segementation.jpg}
-    \caption{An illustration of the goal of iamge segementation.}
+    \caption{An illustration of the goal of iamge segmentation.}
     \label{fig:sege}
 \end{figure}
 
-The first try to combine deep learning methods with this task is Fully Convolutional Networks by \cite{FCN}, which became a milestone. We know that in traditional CNN, the feature dimension is decreased by convolution and pooling operations, and the reception region change from local to global gradually as the image propagate through the network. This makes it difficult to do segementation, as we have to restore the size of image. FCN uses reversed convolution and upsampling operation to restore image size, and conduct pixel-level classification.
+The first try to combine deep learning methods with this task is Fully Convolutional Networks by \cite{FCN}, which became a milestone. We know that in traditional CNN, the feature dimension is decreased by convolution and pooling operations, and the reception region change from local to global gradually as the image propagate through the network. This makes it difficult to do segmentation, as we have to restore the size of image. FCN uses reversed convolution and upsampling operation to restore image size, and conduct pixel-level classification.
 \begin{figure}[!htpb]
     \centering
     \includegraphics[scale=0.3]{figuras/FCN.PNG}
@@ -20,7 +20,7 @@ The first try to combine deep learning methods with this task is Fully Convoluti
     \label{fig:fcn}
 \end{figure}
 
-However, FCN is not good at image details (see Figure~\ref{fig:fcnd}). The result is often blurred and smooth, thus not suitable for medical image segementation, where we especailly care about edges and details in the image, in case the doctors make wrong diagnosis. So there came U-Net, which imporve based on FCN. 
+However, FCN is not good at image details (see Figure~\ref{fig:fcnd}). The result is often blurred and smooth, thus not suitable for medical image segmentation, where we especailly care about edges and details in the image, in case the doctors make wrong diagnosis. So there came U-Net, which imporve based on FCN. 
 
 \begin{figure}[!htpb]
     \centering
